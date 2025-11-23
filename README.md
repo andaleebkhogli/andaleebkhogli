@@ -18,7 +18,7 @@
 
 </div>
 
-<img align="right" height="180" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="data gif"/>
+<img align="right" height="180" src="[https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnk0dDBqYTNoazNkdWVudG01NmEydmp2ejJ4dW9kM2I5YnhrN2MydyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VHI6svvhu5xuqzyAoM/giphy.gif)" alt="data gif"/>
 
 <div align="left">
 
@@ -43,8 +43,6 @@ I'm currently growing toward a **Business Intelligence Developer** role by stren
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="microsoftsqlserver logo" />
   <img width="12" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" height="40" alt="powerbi logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgres logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo" />
   <img width="12" />
@@ -71,6 +69,5 @@ I'm currently growing toward a **Business Intelligence Developer** role by stren
 
 <div align="center">
   
-![Snake Animation](https://github.com/andaleebkhogli/andaleebkhogli/blob/output/snake-dark.svg)
 
 </div>
