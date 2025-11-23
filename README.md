@@ -1,5 +1,5 @@
 # 💫 Hello, I'm Andaleeb Khogli:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/andaleeb-khogli) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:andaleebkhog@gmail.com) 
+# [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/andaleeb-khogli) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:andaleebkhog@gmail.com) <br>
 Business Analyst & Data Analyst passionate about Business Intelligence and data-driven problem-solving.<br>With strong enthusiasm for mathematics, statistics, and information management, I enjoy transforming raw data into clear insights that improve decisions and guide strategy. I’m currently growing toward a Business Intelligence Developer role by strengthening my analytical, visualization, and BI development skills.<br><br>🔭 Currently working on:<br>Interactive dashboards, data stories, process analysis, and insight-driven reporting<br>🌱 Currently learning:<br>Advanced Power BI modeling, SQL optimization, and BI development best practices<br>💼 Open to:<br>Business Analyst • Data Analyst • BI Developer roles & collaborations<br>📫 Reach me at:<br>andaleebkhog@gmail.com
 
 
