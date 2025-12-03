@@ -28,7 +28,7 @@ I'm currently growing toward a **Business Intelligence Developer** role by stren
 
 - 🔭 **Currently working on:** Interactive dashboards, data stories, process analysis & actionable insights  
 - 🌱 **Currently learning:** Advanced Power BI modeling, SQL optimization & BI development best practices  
-- 💼 **Open to:** Business Analyst • Data Analyst • BI Developer roles & collaborations  
+- 💼 **Open to:** Product Owner • Business Analyst • Data Analyst • BI Developer roles & collaborations  
 - 📫 **Reach me at:** **andaleebkhog@gmail.com**
 
 </div>
