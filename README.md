@@ -1,5 +1,5 @@
 <h1 align="center">Hello, I'm Andaleeb Khogli</h1>
-<h3 align="center">Business Analyst | Data Analyst | Aspiring BI Developer</h3>
+<h3 align="center">Product Owner | Business/Data Analyst | Aspiring BI Developer</h3>
 
 <div align="center">
 
