@@ -22,9 +22,9 @@
 
 <div align="left">
 
-I’m a **Business & Data Analyst** passionate about **Business Intelligence, analytics, and data-driven problem-solving**.  
+I’m a **Business Analyst** passionate about **Business Intelligence, analytics, and data-driven problem-solving**.  
 With strong enthusiasm for **mathematics, statistics, and management of information systems**, I enjoy transforming raw data into clear insights that improve decision-making and guide business strategy.  
-I'm currently growing toward a **Business Intelligence Developer** role by strengthening my skills in visualization, SQL, dashboarding, and BI architecture.
+I'm currently growing toward a **Business Intelligence Analyst** role by strengthening my skills in visualization, SQL, dashboarding, and BI architecture.
 
 - 🔭 **Currently working on:** Interactive dashboards, data stories, process analysis & actionable insights  
 - 🌱 **Currently learning:** Advanced Power BI modeling, SQL optimization & BI development best practices  
